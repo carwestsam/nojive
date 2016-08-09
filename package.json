@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/carwestsam/nojive/issues"
   },
-  "homepage": "https://github.com/carwestsam/nojive#readme"
+  "homepage": "https://github.com/carwestsam/nojive#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
